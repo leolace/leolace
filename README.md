@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ooi 👋
+
+aprendendo programação.
+
+⚡ Fun fact: Quase morri quando eu era recém-nascido ✨
 
 <!--
 **leeool/leeool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
