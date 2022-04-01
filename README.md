@@ -1,6 +1,7 @@
 ### Ooi 👋
 
 Aprendendo programação em Etec Adolpho Berezin
+
 1/3 Informática 📕
 
 
