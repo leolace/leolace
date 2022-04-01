@@ -1,6 +1,8 @@
 ### Ooi 👋
 
-Aprendendo programação.
+Aprendendo programação em Etec Adolpho Berezin
+1/3 Informática 📕
+
 
 ⚡Fun fact: quase morri quando eu era recém-nascido ✨
 
