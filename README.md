@@ -5,7 +5,6 @@ Aprendendo programação em Etec Adolpho Berezin
 1/3 Informática 📕
 
 
-⚡Fun fact: quase morri quando eu era recém-nascido ✨
 
 <!--
 **leeool/leeool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
