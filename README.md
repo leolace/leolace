@@ -2,7 +2,7 @@
 
 Aprendendo programação em Etec Adolpho Berezin
 
-1/3 Informática 📕
+2/3° Módulo de Informática 📕
 
 
 
