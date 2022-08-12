@@ -1,6 +1,6 @@
-### Ooi 👋
+### Estudando a plataforma 📖✏️
 
-Aprendendo programação em Etec Adolpho Berezin
+Aprendendo programação na Etec Adolpho Berezin - Mongaguá
 
 2/3° Módulo de Informática 📕
 
