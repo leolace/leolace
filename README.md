@@ -1,8 +1,8 @@
 # Me chamo Leonardo, Prazer! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
  
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Ledger" width="20" height="20" /> Atualmente estudando Javascript.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Pretendo me tornar desenvolvedor Fullstack com NodeJS, ReactJS etc. 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Faço curso Técnico em TI na <a href="http://eteab.com.br/cms/">ETEC Adolpho Berezin</a>.
+- <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Ledger" width="25" height="25" /> Atualmente estudando Javascript.
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Pretendo me tornar desenvolvedor Fullstack com NodeJS, ReactJS etc. 
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Faço curso Técnico em TI na <a href="http://eteab.com.br/cms/">ETEC Adolpho Berezin</a>.
 
 ## Estudando a plataforma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="30" height="30" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" />
 
