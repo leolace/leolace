@@ -6,7 +6,7 @@
 
 ## Estudando a plataforma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="30" height="30" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" />
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/leeool?tab=repositories">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api?username=leeool&hide=issues&theme=dark&show_icons=true&custom_title=GitHub%20Stats" />
 </a>
