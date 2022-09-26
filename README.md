@@ -1,6 +1,6 @@
 # Me chamo Leonardo, Prazer! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ledger.png" alt="Ledger" width="25" height="25" /> Atualmente estudando Javascript.
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Ledger" width="25" height="25" /> Atualmente estudando Javascript.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Pretendo me tornar desenvolvedor Fullstack com NodeJS, ReactJS etc. 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Faço curso Técnico em TI na <a href="http://eteab.com.br/cms/">ETEC Adolpho Berezin</a>.
 
