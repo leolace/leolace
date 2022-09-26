@@ -8,17 +8,17 @@
 
 <div align="center">
 <a href="https://github.com/leeool?tab=repositories">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=leeool&hide=issues&theme=dark&show_icons=true&custom_title=GitHub%20Stats" />
+  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api?username=leeool&hide=issues&theme=dark&show_icons=true&custom_title=GitHub%20Stats" />
 </a>
 <span>⠀⠀</span>
 <a href="https://github.com/leeool?tab=repositories">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeool&theme=dark&layout=compact" />
+  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeool&theme=dark&layout=compact" />
 </a>
 </div>
 
 ## Aonde me encontrar? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
 
-<div style="display: flex; gap: 30px;">
+<div>
 <a href="https://www.linkedin.com/in/leonardo-gonsalez/">
   <img align="center" height=40px src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
