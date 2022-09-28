@@ -1,4 +1,4 @@
-# Olá, Prazer! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
+# Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
  
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Ledger" width="25" height="25" /> Atualmente estudando Javascript.
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Pretendo me tornar desenvolvedor Fullstack com NodeJS, ReactJS etc. 
@@ -14,7 +14,7 @@
 </a>
 </div>
 
-## Onde me encontrar? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
+## Where to find me? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
 
 <div>
 <a href="https://www.linkedin.com/in/leonardo-gonsalez/">
