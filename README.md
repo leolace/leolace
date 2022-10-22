@@ -14,7 +14,7 @@
 </a>
 </div>
 
-## Where to find me? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
+## Onde me achar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
 
 <div>
 <a href="https://www.linkedin.com/in/leonardo-gonsalez/">
