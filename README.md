@@ -6,16 +6,15 @@
 
 ## Estudando a plataforma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" />
 
+<div align="center">
 <a  href="https://github.com/leeool?tab=repositories">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=leeool&theme=github_dark&custom_title=Leeool" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=leeool&theme=github_dark&custom_title=Leeool" />
 </a>
 
-# 
-
 <a  href="https://github.com/leeool?tab=repositories">
-  <img align="center"  width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=leeool&theme=github_dark&custom_title=Activity" />
+  <img align="center"  height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=leeool&theme=github_dark&custom_title=Activity" />
 </a>
-
+</div>
 
 #
 <p align="center">
