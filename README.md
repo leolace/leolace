@@ -12,7 +12,7 @@
 </a>
 
 <a  href="https://github.com/leeool?tab=repositories">
-  <img align="center"  height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=leeool&theme=github_dark&custom_title=Activity" />
+  <img align="center"  height="135px" src="https://github-readme-stats.vercel.app/api/wakatime?username=leeool&theme=github_dark&custom_title=Activity" />
 </a>
 </div>
 
