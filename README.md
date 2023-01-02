@@ -7,7 +7,7 @@
 ## Estudando a plataforma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" />
 
 <a  href="https://github.com/leeool?tab=repositories">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=leeool&theme=github_dark&custom_title=Leeool" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=leeool&theme=github_dark&custom_title=Leeool" />
 </a>
 
 # 
