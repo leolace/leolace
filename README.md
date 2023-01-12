@@ -6,9 +6,7 @@
 - <img align="top" src="https://wakatime.com/badge/user/abdb4217-ca9d-4a20-960c-a8f5d95cca53.svg"  />
 
 <div align="center">
-<a  href="https://github.com/leeool?tab=repositories">
-  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=leeool&theme=github_dark&custom_title=Leeool" />
-</a>
+
 
 <a  href="https://github.com/leeool?tab=repositories">
   <img align="center"  width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=@leeool&theme=github_dark&custom_title=Esta%20semana:" />
