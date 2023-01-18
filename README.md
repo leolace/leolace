@@ -1,6 +1,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
  
-Desenvolvedor Front-End a mais de 6 meses. Sou apto a trabalhar com manipulação de dados em APIs, ambiente Linux, boas práticas para escrita de código e princípios como SOLID ou KISS. Minhas principais experiências são com React e Typescript.
+Front-End Developer for more than half a year. I'm prepared to work with data manipulation in APIs, Linux environment, best practices in code writing and principles like SOLID or KISS. My main experiences are with React and Typescript.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" /> Technical course in <a href="http://eteab.com.br/cms/">ETEC Adolpho Berezin</a>.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="25" height="25" /> lgonsalez02@gmail.com
 - <img align="top" src="https://wakatime.com/badge/user/abdb4217-ca9d-4a20-960c-a8f5d95cca53.svg"  />
@@ -15,12 +15,12 @@ Desenvolvedor Front-End a mais de 6 meses. Sou apto a trabalhar com manipulaçã
 
 ## Main Stack
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=react,ts,nodejs,scss,vite,styledcomponents,html,css,js" />
+    <img height="80" src="https://skillicons.dev/icons?i=react,ts,nodejs,scss,vite,styledcomponents" />
 </p>
 
 ## Learning
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=ts,react,nodejs" />
+    <img height="80" src="https://skillicons.dev/icons?i=ts,nodejs" />
 </p>
 
 
