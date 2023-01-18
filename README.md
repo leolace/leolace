@@ -1,6 +1,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
  
-- <img width="25" align="top" src="https://skillicons.dev/icons?i=react" /> Front-End Developer 
+Desenvolvedor Front-End a mais de 6 meses. Sou apto a trabalhar com manipulação de dados em APIs, ambiente Linux, boas práticas para escrita de código e princípios como SOLID ou KISS. Minhas principais experiências são com React e Typescript.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" /> Technical course in <a href="http://eteab.com.br/cms/">ETEC Adolpho Berezin</a>.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="25" height="25" /> lgonsalez02@gmail.com
 - <img align="top" src="https://wakatime.com/badge/user/abdb4217-ca9d-4a20-960c-a8f5d95cca53.svg"  />
@@ -9,23 +9,23 @@
 
 
 <a  href="https://github.com/leeool?tab=repositories">
-  <img align="center"  width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=@leeool&theme=github_dark&custom_title=Esta%20semana:" />
+  <img align="center"  width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=@leeool&theme=github_dark&custom_title=This%20Week:" />
 </a>
 </div>
 
 ## Main Stack
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=react,ts,scss,vite,styledcomponents,html,css" />
+    <img height="80" src="https://skillicons.dev/icons?i=react,ts,nodejs,scss,vite,styledcomponents,html,css,js" />
 </p>
 
 ## Learning
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=ts" />
+    <img height="80" src="https://skillicons.dev/icons?i=ts,react,nodejs" />
 </p>
 
 
 
-## How to reach me? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
+## How to reach me?
 
 <div>
 <a href="https://www.linkedin.com/in/leonardo-gonsalez/">
