@@ -9,7 +9,7 @@ Front-End Developer for more than half a year. I'm prepared to work with data ma
 
 
 <a  href="https://github.com/leeool?tab=repositories">
-  <img align="center"  width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=@leeool&theme=github_dark&custom_title=This%20Week:" />
+  <img align="center"  width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=@leeool&theme=github_dark&custom_title=Last%20Two%20Weeks:" />
 </a>
 </div>
 
