@@ -20,7 +20,7 @@ Front-End Developer for more than half a year. I'm prepared to work with data ma
 
 ## Learning
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=ts,nodejs" />
+    <img height="80" src="https://skillicons.dev/icons?i=nodejs,express,docker" />
 </p>
 
 
