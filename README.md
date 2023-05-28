@@ -20,7 +20,7 @@ Front-End Developer for more than a year. I'm prepared to work with data manipul
 
 ## Learning
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+    <img height="80" src="https://skillicons.dev/icons?i=nodejs,express,docker,rust" />
 </p>
 
 
