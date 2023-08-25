@@ -13,12 +13,12 @@ Front-End Developer for more than a year. I'm prepared to work with data manipul
 
 ## Main Stack
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=react,ts,nodejs,scss,vite,styledcomponents" />
+    <img height="80" src="https://skillicons.dev/icons?i=vim,react,ts,nodejs,scss,vite,styledcomponents" />
 </p>
 
 ## Learning
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=nodejs,express,docker,rust" />
+    <img height="80" src="https://skillicons.dev/icons?i=docker,rust" />
 </p>
 
 
