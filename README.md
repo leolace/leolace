@@ -18,7 +18,7 @@ Front-End Developer for more than a year. I'm prepared to work with data manipul
 
 ## Learning
 <p align="center">
-    <img height="80" src="https://skillicons.dev/icons?i=nest,next" />
+    <img height="80" src="https://skillicons.dev/icons?i=nest,next,rust" />
 </p>
 
 
