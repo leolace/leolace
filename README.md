@@ -1,6 +1,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
  
-Front-End Developer for more than a year. I'm prepared to work with data manipulation in APIs, Linux environment, best practices in code writing and principles like SOLID or KISS. My main stack are with React and Typescript.
+Front-End Developer for more than a year. I'm prepared to work with data manipulation in APIs, Linux environment and good practices of code writing. My main stack are with React and Typescript.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" /> Computer technician.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="25" height="25" /> lgonsalez02@gmail.com
 - <img align="top" src="https://wakatime.com/badge/user/abdb4217-ca9d-4a20-960c-a8f5d95cca53.svg"  />
