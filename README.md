@@ -3,5 +3,5 @@
 Web Developer. 
 - React and TypeScript.
 - Some Go, Svelte, Node...
-- Undergraduate student in Information Systems at USP-ICMC.
+- Undergraduate student at University of São Paulo.
 - lgonsalez02@gmail.com
